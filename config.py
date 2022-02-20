@@ -42,15 +42,15 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 # To use your Yukki as default with all regular Updates and Patches.
 # Also without customizing or modifying as your own choice, this must be
-# filled with Yukki Music Bot Main Repository URL in value.
+# filled with 𝐁𝐎𝐒𝐒 𝐌𝐔𝐃𝐀 ♔ᴬˢˢᴵˢᵀᴬᴺᵀ Main Repository URL in value.
 UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO", "https://github.com/NotReallyShikhar/YukkiMusicBot"
+    "UPSTREAM_REPO", "https://github.com/Bossmuda017/BosmudaAssistant"
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 # If you have a Support for your Music Bot, You can set this var
 # Only  Links formats can be accepted for this Var value.
-# Example:- https://t.me/YukkiSupport
+# Example:- https://t.me/+xcScdpYQ2TU3MTll
 # Don’t use @
 
 if str(getenv("SUPPORT_CHANNEL")).strip() == "":
