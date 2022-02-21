@@ -1,16 +1,16 @@
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://github.com/Bossmuda017/BosmudaAssistant/blob/master/Utils/animation.gif" alt="ICON" width="350" height="250"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/YukkiRobot"> Ready-To-Use Bot </a> •
-    <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/OfficialYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://t.me/Assistantbosmuda_bot"> Ready-To-Use Bot </a> •
+    <a href=""> Documentation </a> •
+    <a href="https://t.me/chbossmafia"> Support Channel </a> •
+    <a href="https://t.me/+xcScdpYQ2TU3MTll"> Support Chat </a> 
 </p>
     
-# Yukki Music Bot
+# 𝐁𝐎𝐒𝐒 𝐌𝐔𝐃𝐀 ♔ᴬˢˢᴵˢᵀᴬᴺᵀ
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
@@ -86,18 +86,18 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/OfficialYukki)
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/chbossmafia)
+- [Telegram Support Group](https://t.me/+xcScdpYQ2TU3MTll)
+- [Contact Owner](https://t.me/Bossmuda017)
 
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/Bossmuda017/BosmudaAssistant/blob/master/LICENSE) See `LICENSE.md` for more information.
 
 ## Acknowledgements
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power 𝐁𝐎𝐒𝐒 𝐌𝐔𝐃𝐀 ♔ᴬˢˢᴵˢᵀᴬᴺᵀ:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
